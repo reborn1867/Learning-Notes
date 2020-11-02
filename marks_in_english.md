@@ -58,6 +58,6 @@ $ dollar sign
 
 _ underscore
 
-, coma
+, comma
 
 . period or dot
