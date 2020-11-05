@@ -1,4 +1,6 @@
 # Learning-Notes
 Good Good Study, Day Day Up
 
-* [marks in english](./marks_in_english.md)
+* [Marks In English](./marks_in_english.md)
+
+* [Semantic Versioning](https://semver.org/lang/zh-CN/)
